@@ -12,4 +12,5 @@ This is a simple command-line interface (CLI) todo list application built with N
 4. **List Todos**: Display all tasks with their completion status.
 
 ---
-(![alt text](image.png))
+(![alt text](![image](https://github.com/user-attachments/assets/86832496-3dc6-423f-bc01-6576a85e3cca)
+))
